@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+      text-align:center;
+           object-fit: contain;
+}
+
+li {
+         margin-top: 100px;
+       margin-bottom: 100px;
+        max-width: 100%;
+        object-fit: contain;
+        width: 50vw
+}
+
+.banner {
+    text-align:center;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.halfwidth {
+position: absolute;
+left: 25%;
+    text-align:center;
+    width: 50vw;
+    background-color: #cce6ff;
+}
+
+.container{
+    text-align:center;
+    width: 100vw;
+    height: 100vw;
+    display: inline-block;
+}
+
+img{
+     object-fit: contain;
+     max-width:80%;
+    max-height:80%;
+}
